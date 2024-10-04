@@ -2,6 +2,6 @@
   "Version": "1.1.4",
   "Custom": false,
   "CustomURL": ""
-  "Custom1.5": true,
-  "CustomURL1.5": "https://rapid-tunnel.web.app/config.sp"
+  "Custom1.5": false,
+  "CustomURL1.5": ""
 }
