@@ -1,7 +1,7 @@
 {
-  "Version": "1.1.9",
+  "Version": "1.2.0",
   "Custom": true,
-  "CustomURL": "https://raw.githubusercontent.com/VihangaIndusara/Test/refs/heads/main/AppData",
+  "CustomURL": "https://raw.githubusercontent.com/VihangaIndusara/RAPID-CONFIGS/refs/heads/main/Config.sp",
   "Custom1.5": true,
-  "CustomURL1.5": "https://raw.githubusercontent.com/VihangaIndusara/Test/refs/heads/main/AppData"
+  "CustomURL1.5": "https://raw.githubusercontent.com/VihangaIndusara/RAPID-CONFIGS/refs/heads/main/Config.sp"
 }
