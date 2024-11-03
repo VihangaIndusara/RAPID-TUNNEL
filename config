@@ -1,7 +1,7 @@
 {
   "Version": "1.2.7",
   "Custom": true,
-  "CustomURL": "https://raw.githubusercontent.com/VihangaIndusara/RAPID-CONFIGS/refs/heads/main/Config.sp",
+  "CustomURL": "https://rapid.vihaga.dev/config.sp",
   "Custom1.5": true,
-  "CustomURL1.5": "https://raw.githubusercontent.com/VihangaIndusara/RAPID-CONFIGS/refs/heads/main/Config.sp"
+  "CustomURL1.5": "https://rapid.vihaga.dev/config.sp"
 }
